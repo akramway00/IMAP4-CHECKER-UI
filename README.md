@@ -31,7 +31,7 @@ Here is the application in action, validating email:password combinations (blurr
   - Results are displayed in real-time, with a clear distinction between valid and invalid combinations.
 
 - **Save Results**
-  - Valid email:password combinations are saved to an `output.txt` file for further use.
+  - Valid email:password combinations are saved to an `valids.txt` file for further use.
 
 - **Progress Tracking**
   - Track the number of processed combinations and valid hits in real time.
@@ -57,7 +57,7 @@ Here is the application in action, validating email:password combinations (blurr
 
 5. **Start Validation**:
    - Click the "Start" button to begin the validation process.
-   - Valid results will be saved automatically to `output.txt`.
+   - Valid results will be saved automatically to `valids.txt`.
 
 
 ## Requirements
@@ -65,7 +65,7 @@ Here is the application in action, validating email:password combinations (blurr
 - The application is precompiled as an `.exe` and does not require Python to run.
 - The following files must remain in the same directory as the `.exe`:
   - `hoster.dat`: Contains the IMAP host configurations.
-  - `output.txt`: Where valid results will be saved.
+  - `valids.txt`: Where valid results will be saved.
 
 ## Notes
 
