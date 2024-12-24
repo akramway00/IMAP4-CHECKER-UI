@@ -2,7 +2,6 @@
 
 IMAP4-Checker-UI is a user-friendly application designed for validating email:password combinations using the IMAP4 protocol. With a sleek and simple interface, this tool allows you to load, validate, and save results efficiently. The application is distributed as a precompiled executable for easy usage.
 
----
 
 ## Screenshots
 
@@ -16,7 +15,6 @@ Here is the application in action, validating email:password combinations (blurr
 
 ![Running State](process.png)
 
----
 
 ## Features
 
@@ -41,7 +39,6 @@ Here is the application in action, validating email:password combinations (blurr
 - **Customizable Interface**
   - The interface is built with a modern and dark-themed design using `CustomTkinter`.
 
----
 
 ## How to Use
 
@@ -62,7 +59,6 @@ Here is the application in action, validating email:password combinations (blurr
    - Click the "Start" button to begin the validation process.
    - Valid results will be saved automatically to `output.txt`.
 
----
 
 ## Requirements
 
@@ -71,21 +67,16 @@ Here is the application in action, validating email:password combinations (blurr
   - `hoster.dat`: Contains the IMAP host configurations.
   - `output.txt`: Where valid results will be saved.
 
----
-
 ## Notes
 
 - This tool is distributed **without the source code**.
 - Ensure that the `.exe` file and supporting files are kept together for the application to work correctly.
 - For security and privacy reasons, the application does not log or share any email:password data.
 
----
 
 ## Disclaimer
 
 This tool is provided for educational and legitimate testing purposes only. Misuse of this tool to access unauthorized accounts is strictly prohibited. The author does not hold responsibility for any inappropriate use of this software.
-
----
 
 ## License
 
